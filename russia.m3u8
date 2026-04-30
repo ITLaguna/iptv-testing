@@ -7,3 +7,5 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 pulang
 #EXTINF:-1 tvg-logo="https://itlaguna.github.io/iptv-logo/pp.png" group-title="pp",pp
 pp
+#EXTINF:-1 tvg-logo="https://itlaguna.github.io/iptv-logo/r.png" group-title="r",r
+r
