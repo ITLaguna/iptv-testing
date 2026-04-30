@@ -5,3 +5,5 @@ https://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-logo="https://itlaguna.github.io/iptv-logo/pulang.png" group-title="pulang",pulang
 pulang
+#EXTINF:-1 tvg-logo="https://itlaguna.github.io/iptv-logo/pp.png" group-title="pp",pp
+pp
