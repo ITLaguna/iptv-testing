@@ -7,3 +7,5 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-logo="https://itlaguna.github.io/iptv-logo/anjing.png" group-title="anjing",anjing
 anjingg
+#EXTINF:-1 tvg-logo="https://itlaguna.github.io/iptv-logo/qqq.png" group-title="qqq",qqq
+qqq
