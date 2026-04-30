@@ -2,8 +2,8 @@
 
 # --- FEDERAL CHANNELS ---
 
-#EXTINF:-1 tvg-name="Мир 24" tvg-id="mir-24" tvg-logo="https://i.imgur.com/dj9c8Yd.png" tvg-chno="1" tvg-country="RU" group-title="Russia",Мир 24
+#EXTINF:-1 tvg-name="Мир 24" tvg-id="mir-24" tvg-logo="https://itlaguna.github.io/iptv-logo/mir24.png" tvg-chno="1" tvg-country="RU" group-title="Russia",Мир 24
 https://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Первый канал" tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/1IqCGe9.png" tvg-chno="2" tvg-country="RU" group-title="Russia",Первый канал
+#EXTINF:-1 tvg-name="Первый канал" tvg-id="ChannelOne.ru" tvg-logo="https://itlaguna.github.io/iptv-logo/channel1rus.png" tvg-chno="2" tvg-country="RU" group-title="Russia",Первый канал
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
