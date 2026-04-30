@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://itlaguna.github.io/iptv-logo/mir24.png" group-title="IPTV",Мир 24
+#EXTINF:-1 tvg-logo="https://itlaguna.github.io/iptv-logo/mir24.png" group-title="Russia",Мир 24
 https://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://itlaguna.github.io/iptv-logo/channel1rus.png" group-title="IPTV",Первый канал
+#EXTINF:-1 tvg-logo="https://itlaguna.github.io/iptv-logo/channel1rus.png" group-title="Russia",Первый канал
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-logo="https://itlaguna.github.io/iptv-logo/aaa.png" group-title="IPTV",aaa
+#EXTINF:-1 tvg-logo="https://itlaguna.github.io/iptv-logo/aaa.png" group-title="Russia",aaa
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-logo="https://itlaguna.github.io/iptv-logo/Z.png" group-title="J",Z
-F
+#EXTINF:-1 tvg-logo="https://itlaguna.github.io/iptv-logo/B.png" group-title="AA",A
+b
